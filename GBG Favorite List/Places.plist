@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Places</key>
+	<array>
+		<dict>
+			<key>Description</key>
+			<string>There&apos;s a sleek restaurant with floor-to-ceiling windows and city views, and a casual eatery with a 25th-floor terrace. Other amenities include a spa, a hammam and 2 indoor pools, along with a glass-bottom outdoor pool suspended above the road.</string>
+			<key>Image</key>
+			<string>upper</string>
+			<key>Address</key>
+			<string>Gothia Towers, Mässans gata 24,Göteborg</string>
+			<key>Title</key>
+			<string>Upper House</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>Liseberg</string>
+			<key>Description</key>
+			<string>Liseberg is an amusement park located in Gothenburg, Sweden, that opened in 1923. It is one of the most visited amusement parks in Scandinavia, attracting about three million visitors annually.</string>
+			<key>Address</key>
+			<string>Örgrytevägen 5, 402 22 Göteborg</string>
+			<key>Title</key>
+			<string>Liseberg</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>Universeum</string>
+			<key>Description</key>
+			<string>Universeum is a public science centre and museum in Gothenburg, Sweden that opened in 2001. It is a part of Evenemangsstråket, the thoroughfare of events – close to Korsvägen and Skånegatan – which includes sights of interest like Scandinavium, Ullevi, Svenska Mässan, Liseberg and the Museum of World Culture.</string>
+			<key>Address</key>
+			<string>Södra Vägen 50, 400 20 Göteborg</string>
+			<key>Title</key>
+			<string>Universeum</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>Botaniska</string>
+			<key>Description</key>
+			<string>The Gothenburg Botanical Garden is located in Gothenburg, Sweden, and is one of the larger botanical gardens in Europe.</string>
+			<key>Address</key>
+			<string>Carl Skottsbergs gata 22A, 413 19 Göteborg</string>
+			<key>Title</key>
+			<string>Botanical Garden</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>Slotts</string>
+			<key>Description</key>
+			<string>Slottsskogen is a 137 hectares large park located in central Gothenburg, Sweden.</string>
+			<key>Address</key>
+			<string>Slottskogspromenaden, 414 76 Göteborg</string>
+			<key>Title</key>
+			<string>Slottsskogen</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>Dels</string>
+			<key>Description</key>
+			<string>Delsjön consist of two coherent lakes, Stora Delsjön and Lilla Delsjön, located in eastern Gothenburg, in the Delsjöområdet nature reserve. They serve as a reservoir for the city, receiving water from the Göta River. At the shore of Stora Delsjön there is a popular beach.</string>
+			<key>Address</key>
+			<string>Delsjön xx</string>
+			<key>Title</key>
+			<string>Delsjön</string>
+		</dict>
+		<dict>
+			<key>Image</key>
+			<string>salt</string>
+			<key>Description</key>
+			<string>Saltholmen is the popular swimming area Aspholmen, which actually goes by the name Saltholmen among the locals. It’s one of the most popular spots in Gothenburg and here you can get into the water from cliffs or use the ladders.</string>
+			<key>Address</key>
+			<string>SaltholmenOmråde</string>
+			<key>Title</key>
+			<string>Saltholmen</string>
+		</dict>
+	</array>
+</dict>
+</plist>
